@@ -130,7 +130,7 @@ public class Consonants {
 
         }
 
-        System.out.println("Count for Vowels :::"+ count);
+        System.out.println("Count for Consonants :::"+ count);
 
 
     }
